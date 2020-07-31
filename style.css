@@ -1,5 +1,5 @@
 
-@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css'); 
 /*-----------------------------------------------------------------------------------
         [Table of contents]
 
@@ -29,6 +29,7 @@
         25. Blog details
         26. Contact page
         27. ScrollUp
+
 
     ------------------------------------------------------------------*/
 
@@ -65,6 +66,7 @@
 		box-shadow: none;
 	}
 	
+
 	.btn:focus {
 		border-color: transparent !important;
 		outline: 0 !important;
