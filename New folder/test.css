@@ -1,0 +1,23 @@
+.product-color>ul li.red {
+    background: #ff0066 none repeat scroll 0 0;
+}
+
+.product-color>ul li.pink {
+    background: #ff01f0 none repeat scroll 0 0;
+}
+
+.product-color>ul li.blue {
+    background: #3649ff none repeat scroll 0 0;
+}
+
+.product-color>ul li.sky {
+    background: #00c0ff none repeat scroll 0 0;
+}
+
+.product-color>ul li.green {
+    background: #00ffae none repeat scroll 0 0;
+}
+
+.product-color>ul li.purple {
+    background: #8a00ff none repeat scroll 0 0;
+}

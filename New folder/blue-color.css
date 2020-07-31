@@ -1,0 +1,596 @@
+
+	body.blue-color .form-control:focus {
+		border-color: #3649ff;
+	}
+
+	
+	body.blue-color .common-style>button:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .page-item.active .page-link {
+		background-color: #ff1a76;
+		border-color: #ff1a76;
+	}
+	
+	body.blue-color .sidebar-cart-icon button:hover,
+	body.blue-color .sidebar-search-icon button:hover,
+	body.blue-color .sidebar-search-input form .form-search button:hover,
+	body.blue-color .sidebar-nav-icon button:hover {
+		color: #3649ff;
+	}
+	
+	
+	body.blue-color .cart-title>span {
+		color: #3649ff;
+		font-weight: 600;
+	}
+	
+	
+	body.blue-color .cart-delete a i:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .cart-total h4 span {
+		color: #3649ff;
+	}
+	
+	body.blue-color .btn-hover:before {
+		background: #3649ff none repeat scroll 0 0;
+	}
+	body.blue-color .cur-lang-acc-title>h4 span {
+		color: #3649ff;
+	}
+
+	body.blue-color .clickable-mainmenu-btn a:hover {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color #menu li a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .clickable-mainmenu-icon button:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .slider-content-style-1>h3 span {
+		color: #3649ff;
+	}
+	
+	body.blue-color .slider-btn-style:hover {
+		border: 2px solid #3649ff;
+	}
+	
+	body.blue-color .slider-text-right {
+		text-align: right;
+	}
+	
+	body.blue-color .banner-content>h3 span,
+	body.blue-color .banner-content>p span {
+		color: #3649ff;
+	}
+	
+	body.blue-color .wallet .wallet-main .wallet-head{
+		background: #ff1a76;
+	}
+
+	body.blue-color .wallet .wallet-main .wallet-body button {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .section-title>h2 span {
+		color: #3649ff;
+	}
+	body.blue-color .bid-tag {
+		color: #3649ff;
+	}
+	body.blue-color .sold-tag {
+		border-bottom: solid 50px #ff0000;
+		border-right: solid 50px #ff0000;
+	}
+	body.blue-color .block-tag {
+		background-color: #ff0000bf !important;
+	}
+	
+	
+	body.blue-color .product-img>a.like {
+		color: #3649ff;
+	}
+	
+	body.blue-color .product-img>a.like:hover {
+		background-color: #3649ff;
+		color: #fff;
+	}
+	
+	body.blue-color .product-img>a.like.active {
+		background-color: #3649ff;
+	}
+
+	body.blue-color .product-action>a:hover {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .product-title>h4 a:hover,
+	body.blue-color .product-categori>a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .product-price>span {
+		color: #3649ff;
+	}
+	
+	body.blue-color .product-tab-list a.active h4 {
+		color: #3649ff;
+	}
+	
+	body.blue-color .blog-meta ul li a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .price span.new {
+		color: #3649ff;
+	}
+	
+	body.blue-color .quick-view-rating i.red-star {
+		color: #3649ff;
+	}
+	
+	body.blue-color .quickview-btn-review>button {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .quickview-btn-review>a {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .quickview-btn-chat>a {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .quickview-btn-follow>a {
+		background-color: #3649ff;
+	}
+	
+	
+	body.blue-color .quickview-btn-cart>button {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .quickview-btn-checkout-main>a {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .quickview-btn-checkout-main>button {
+		background-color: #3649ff;
+	}
+	body.blue-color .quickview-btn-select-shipping-address>a {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .quickview-btn-add-address>a {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .quickview-btn-like>a span {
+		color: #3649ff;
+	}
+	
+	body.blue-color .quickview-btn-shop-follow>a span {
+		color: #3649ff;
+	}
+	
+	body.blue-color .quickview-btn-shop-follow>a.active {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .quickview-btn-add>button {
+		background-color: #3649ff;
+	}
+	body.blue-color .quickview-btn-add a {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .post-product-btn {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .quickview-btn-login-main>button {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color #exampleModal .close:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .main-menu nav>ul>li:hover>a {
+		color: #3649ff;
+	}
+	
+	body.blue-color .main-menu nav>ul>li>ul>li>a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .main-menu nav>ul>li>ul.dropdown>li:before,
+	body.blue-color .main-menu nav>ul>li>.mega-dropdown>ul>li:before {
+		background: #3649ff none repeat scroll 0 0;
+	}
+	
+	body.blue-color .main-menu nav>ul>li>.mega-dropdown>ul>li>a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .slider-content-style-2 a,
+	body.blue-color .slider-content-style-3 a,
+	body.blue-color .slider-content-style-6 a {
+		border-bottom: 1px solid #3649ff;
+		color: #3649ff;
+	}
+	
+	body.blue-color .banner-content-2>a {
+		color: #3649ff;
+	}
+	
+	body.blue-color .banner-content-2>a:before {
+		background: #3649ff none repeat scroll 0 0;
+	}
+	
+	body.blue-color .banner-content-2>a:hover:before {
+		background: #e51515 none repeat scroll 0 0;
+	}
+	
+	body.blue-color .scroll-top:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .common-banner-style-3>h2 span {
+		color: #3649ff;
+	}
+	
+	body.blue-color .banner-content-4>a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .coundown-auto>a:hover {
+		color: #3649ff;
+		border-bottom: 1px solid #3649ff;
+	}
+	
+	body.blue-color .banner-content-5>a:hover {
+		border: 1px dashed #3649ff;
+		color: #3649ff;
+	}
+	
+	body.blue-color .load-more-style.btn-hover:hover {
+		border: 1px solid #3649ff;
+	}
+	
+	body.blue-color .food-title>span {
+		color: #3649ff;
+	}
+	
+	body.blue-color .food-action>a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .product-tab-list.food-menu a.active,
+	body.blue-color .product-tab-list.food-menu a:hover {
+		border-bottom: 3px solid #3649ff;
+	}
+
+	body.blue-color .food-single-about>a:hover,
+	body.blue-color .footer-social li a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .breadcrumb-content h2 span {
+		color: #3649ff;
+	}
+	
+	body.blue-color .breadcrumb-content li a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .shop-found>p span {
+		color: #3649ff;
+	}
+	
+	body.blue-color .shop-tab a.active,
+	body.blue-color .shop-tab a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .shop-filter>a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .sidebar-search form>button {
+		color: #3649ff;
+	}
+	
+	body.blue-color .sidebar-search form>button:hover {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .sidebar-categories li p:hover {
+		color: #3649ff;
+	}
+    
+	body.blue-color .product-size li a:hover {
+		color: #3649ff;
+	}
+	
+	
+	body.blue-color .top-rated-rating li i.reting-color {
+		color: #3649ff;
+	}
+	
+	
+	body.blue-color .list-btn-style:hover {
+		border: 1px solid #3649ff;
+	}
+	
+	body.blue-color .breadcrumb-content-2>ul li a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .product-details-content>h2 {
+		color: #3649ff;
+	}
+	
+	body.blue-color .product-share>ul li a:hover {
+		border: 1px solid #3649ff;
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .product-size-style2 li a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color a.bundle-btn {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .bundle-social li a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .product-details7-social li a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .scroll-single-product>a {
+		color: #3649ff !important;
+	}
+	
+	body.blue-color .scroll-single-product>a:hover {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .table-content table td.product-name a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .table-content table td.product-remove i:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .coupon-all input.button:hover {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .cart-page-total>a:hover {
+		background-color: #3649ff;
+		border: 1px solid #3649ff;
+	}
+	
+	body.blue-color .coupon-accordion span:hover,
+	body.blue-color p.lost-password a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .coupon-info p.form-row input[type="submit"]:hover,
+	body.blue-color p.checkout-coupon input[type="submit"]:hover {
+		background: #3649ff none repeat scroll 0 0;
+	}
+	
+	body.blue-color .order-button-payment input:hover {
+		background: #3649ff;
+		border: 1px solid #3649ff;
+	}
+	
+	body.blue-color .button-box .default-btn:hover {
+		background-color: #3649ff;
+		border: 1px solid #3649ff;
+	}
+	
+	body.blue-color .blog-tags-style li a:hover {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .social-network>a:hover {
+		background: #3649ff none repeat scroll 0 0;
+	}
+	
+	body.blue-color .pagination-style ul li:hover a,
+	body.blue-color .pagination-style ul li.active a {
+		background: #3649ff none repeat scroll 0 0;
+		border-color: #3649ff;
+	}
+	
+	
+	body.blue-color .blog-details-style blockquote {
+		border-left: 2px solid #3649ff;
+	}
+	
+	body.blue-color .blog-img-details>a:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .clear-2 input:hover {
+		background: #3649ff none repeat scroll 0 0;
+		border: medium none;
+		box-shadow: none;
+	}
+	
+	body.blue-color .login-btn button {
+		background: #3649ff;
+	}
+	
+	body.blue-color .login-btn button:hover {
+		border: 2px solid #3649ff !important;
+		color: #3649ff;
+	}
+	
+	body.blue-color .message-btn button {
+		border: 2px solid #3649ff;
+		color: #3649ff;
+	}
+	
+	body.blue-color .message-btn button:hover {
+		background: #3649ff;
+	}
+	
+	body.blue-color .header-cart span {
+		color: #3649ff;
+	}
+	
+	body.blue-color .sell-btn {
+		background: #3649ff none repeat scroll 0 0;
+	}
+	
+	body.blue-color .category a {
+		color: #3649ff;
+	}
+	
+	body.blue-color .category i {
+		color: #3649ff;
+	}
+	
+	body.blue-color .product-detail-vendor-detail .str_rating {
+		background: #3649ff;
+	}
+	
+	body.blue-color .cart-product-name-info a.cancel_rm {
+		color: #f06 !important;
+	}
+	
+	body.blue-color .shopping-cart.price_ss .whole_total h4 span {
+		color: #3649ff;
+	}
+	
+	body.blue-color .checkout-payment-method .radio-item label:before {
+		border: 2px solid #3649ff;
+	}
+	
+	body.blue-color .checkout-payment-method .radio-item input[type=radio]:checked+label:after {
+		background: #3649ff;
+	}
+	
+	body.blue-color .checkout .shipping-address .edit a {
+		color: #3649ff;
+	}
+	
+	body.blue-color body.blue-color .checkout .shipping-address .add a {
+		color: #3649ff;
+	}
+	
+	body.blue-color .checkout .billing-address .edit a {
+		color: #3649ff;
+	}
+	
+	body.blue-color .checkout .billing-address .add a {
+		color: #3649ff;
+	}
+	
+	body.blue-color .dashboard .nav-pills .nav-link.active,
+	body.blue-color .nav-pills .show>.nav-link {
+		color: #3649ff;
+		border: 1px solid #3649ff;
+	}
+	body.blue-color .dashboard .edit-information h4 {
+		color: #3649ff;
+	}
+	
+	body.blue-color .dashboard .account-information .information p a {
+		color: #3649ff;
+	}
+	
+	body.blue-color .dashboard .address h3.aar {
+		color: #3649ff;
+	}
+	
+	body.blue-color .quickview-btn-address-edit>a {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .quickview-btn-dashboard-follow>a {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .choose-category .dropdown-submenu.menu1 a:hover {
+		background: #3649ff;
+	}
+	
+	body.blue-color .inputDnD .form-control-file {
+		color: #3649ff !important;
+	}
+	
+	body.blue-color .checkbox .indicator:before,
+	body.blue-color .checkbox-inline .indicator:before,
+	body.blue-color .radio .indicator:before,
+	body.blue-color .radio-inline .indicator:before {
+	    border: 2px solid #f06;
+	}
+	
+	body.blue-color .primary-color {
+		color: #3649ff !important;
+	}
+	
+	body.blue-color .create-shop .c3 {
+		border: 3px solid #3649ff;
+	}
+	
+	body.blue-color .create-shop .c3.active {
+		background: #3649ff !important;
+	}
+	
+	body.blue-color .create-shop a h5:hover {
+		color: #3649ff;
+	}
+	
+	body.blue-color .dropdown-item.active,
+	body.blue-color .dropdown-item:active {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .input-field:focus {
+		border: 2px solid #3649ff;
+	}
+	
+	body.blue-color .dropdown li:hover {
+		background: #3649ff !important;
+		color: #fff !important;
+	}
+	
+	body.blue-color .quickview-btn-filter>button {
+		background-color: #3649ff;
+	}
+	
+	body.blue-color .order-detail-main .cart-product-name-info a.cancel_rm {
+		color: #f06 !important;
+	}
+		.edit-profile a {
+		color: #ff1975;
+	}
+	body.blue-color .circle span.delete-img-icon {
+	    color: #ff1a76;
+	}
+	
+	body.blue-color .p-image {
+		color: #ff3e89;
+	}
+	
+	body.blue-color .fa-stack[data-count]:after {
+		background: #3649ff;
+	}
